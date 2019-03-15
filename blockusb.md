@@ -20,7 +20,8 @@ install usb-storage /bin/true
 ```
 
 한줄로 요약하면 다음과 같습니다.
-```bash
+```
+$ su
 # echo "install usb-storage /bin/true" > /etc/modprob.d/usb-storage.conf && reboot
 ```
 
