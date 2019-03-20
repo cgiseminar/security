@@ -25,3 +25,4 @@ $ su
 # echo "install usb-storage /bin/true" > /etc/modprobe.d/usb-storage.conf && reboot
 ```
 
+보안을 위해서 셋팅하는 옵션인만큼 root 암호 유출에 주의하세요. 
