@@ -6,7 +6,7 @@ Block Devices를 보는 명령어는 lsblk 명령어입니다. USB를 연결한 
 
 `/etc/modprob.d`경로에 `usb-storage.conf` 파일을 만들어줍니다.
 ```
-# vim /etc/modprob.d/usb-storage.conf
+# vim /etc/modprobe.d/usb-storage.conf
 ```
 
 파일 내용을 아래처럼 입력해줍니다.
