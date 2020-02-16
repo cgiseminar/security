@@ -52,3 +52,10 @@ init 6
 
 https://hack-cracker.tistory.com/206
 ```
+
+
+### 필요한 소프트웨어 설치
+
+```
+# apt-get instal blender
+```
