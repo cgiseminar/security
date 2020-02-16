@@ -40,3 +40,5 @@ $ sudo dd if=~/Downloads/kali-linux-2020.1-installer-amd64.img of=/dev/rdisk2 bs
 $ diskutil eject /dev/disk2
 Disk /dev/disk2 ejected
 ```
+
+- 설치시 필요한 wifi 설정파일 다운받는 곳: https://packages.debian.org/buster/all/firmware-iwlwifi/download
