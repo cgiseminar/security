@@ -30,9 +30,9 @@ $ sudo dd if=~/Downloads/kali-linux-2020.1-installer-amd64.img of=/dev/rdisk2 bs
 
 - 잘 진행이 되면 아래 메시지를 출력후 종료됩니다.
 ```bash
-8961+1 records in
-8961+1 records out
-9396461568 bytes transferred in 706.427948 secs (13301373 bytes/sec)
+2016+0 records in
+2016+0 records out
+2113929216 bytes transferred in 299.555220 secs (7056893 bytes/sec)
 ```
 
 - USB를 추출합니다.
