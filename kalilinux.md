@@ -41,4 +41,14 @@ $ diskutil eject /dev/disk2
 Disk /dev/disk2 ejected
 ```
 
-- 설치시 필요한 wifi 설정파일 다운받는 곳: https://packages.debian.org/buster/all/firmware-iwlwifi/download
+- 최초 랜선으로 설치하면 이후 wifi 실행이 됩니다.
+- Root 계정에서 아래 내용을 타이핑하여 한글을 설치하세요.
+```
+# apt-get update
+# apt-get install fcitx-hangul
+# apt-get install fcitx-lib*
+# apt-get install fonts-nanum*
+init 6
+
+https://hack-cracker.tistory.com/206
+```
