@@ -56,6 +56,8 @@ https://hack-cracker.tistory.com/206
 
 ### 필요한 소프트웨어 설치
 
+```bash
+$ sudo apt-get instal blender
+$ sudo apt-get install libreoffice
 ```
-# apt-get instal blender
-```
+- vscode: https://medium.com/@calypsobronte/vs-code-in-kali-linux-2018-4-9e96e92d13ca
