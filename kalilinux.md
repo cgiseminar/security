@@ -60,5 +60,6 @@ https://hack-cracker.tistory.com/206
 $ sudo apt-get instal blender
 $ sudo apt-get install libreoffice
 $ sudo apt-get install krita
+$ sudo apt-get install golang
 ```
 - vscode: https://medium.com/@calypsobronte/vs-code-in-kali-linux-2018-4-9e96e92d13ca
